@@ -1,0 +1,5 @@
+<resources>
+    <string name="google_maps_API_key">AIzaSyATh0EYiRDwHqy0C2C-J3T5itsbvldq8Zo</string>
+    <string name="app_name">PlaceGoo</string>
+    <string name="map">Map</string>
+</resources>
